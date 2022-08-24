@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MYWA1
-- 👀 I’m interested in AI & Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on anything ML related, i just want to gain handfull experience in this field
+- 👀 I’m interested in Data Analytics & AI
+- 🌱 I’m currently learning Data Analysis and I have been able to develop a set of skills in AI 
+- 💞️ I’m looking to collaborate on Data Scenence and Data Analytics projects. I just want to gain handfull experience in this field
 - 📫 How to reach me ajanakuolumide@gmail.com
 
 <!---
